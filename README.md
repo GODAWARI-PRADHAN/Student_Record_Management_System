@@ -1,87 +1,47 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "id": "cdbfa619-23c3-4408-9942-8ca0a644b644",
-   "metadata": {},
-   "source": [
-    "# Student Record and Academic Management System\n",
-    "\n",
-    "## Project Title\n",
-    "Student Record and Academic Management System – Data Organization using Python Collections\n",
-    "\n",
-    "## Objective\n",
-    "The objective of this project is to develop a Student Record Management System using Python collections to store, organize, update, and retrieve student academic information.\n",
-    "\n",
-    "## Python Data Structures Used\n",
-    "\n",
-    "- Strings\n",
-    "- Lists\n",
-    "- Tuples\n",
-    "- Sets\n",
-    "- Dictionaries\n",
-    "\n",
-    "## Main Features\n",
-    "\n",
-    "1. Add Student\n",
-    "2. Search Student\n",
-    "3. Update Student\n",
-    "4. Delete Student\n",
-    "5. Display Student Records\n",
-    "6. Calculate Average Marks\n",
-    "7. Find Highest Scorer\n",
-    "8. List Students by Department\n",
-    "9. Count Students\n",
-    "10. Exit\n",
-    "\n",
-    "## Testing\n",
-    "\n",
-    "The system was tested for:\n",
-    "- Adding student records\n",
-    "- Duplicate records\n",
-    "- Searching records\n",
-    "- Updating records\n",
-    "- Deleting records\n",
-    "- Invalid input\n",
-    "- Empty records\n",
-    "- Calculating average marks\n",
-    "- Finding highest scorer\n",
-    "- Department-wise listing\n",
-    "- Counting students\n",
-    "\n",
-    "## Conclusion\n",
-    "\n",
-    "The project demonstrates how Python collections can be integrated to develop a functional Student Record Management System."
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "b29fc1e7-54fc-4bcc-b9e8-926ae593e401",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3 (ipykernel)",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.14.7"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+# Student Record and Academic Management System
+
+## Project Title
+Student Record and Academic Management System – Data Organization using Python Collections
+
+## Objective
+The objective of this project is to develop a Student Record Management System using Python collections to store, organize, update, and retrieve student academic information.
+
+## Python Data Structures Used
+
+- Strings
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+
+## Main Features
+
+1. Add Student
+2. Search Student
+3. Update Student
+4. Delete Student
+5. Display Student Records
+6. Calculate Average Marks
+7. Find Highest Scorer
+8. List Students by Department
+9. Count Students
+10. Exit
+
+## Testing
+
+The system was tested for:
+- Adding student records
+- Duplicate records
+- Searching records
+- Updating records
+- Deleting records
+- Invalid input
+- Empty records
+- Calculating average marks
+- Finding highest scorer
+- Department-wise listing
+- Counting students
+
+## Conclusion
+
+The project demonstrates how Python collections can be integrated to develop a functional Student Record Management System.
